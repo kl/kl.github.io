@@ -1,1 +1,1 @@
-Nothing to see here yet
+[applink](https://kl.github.io/mullvad/applinktest)
